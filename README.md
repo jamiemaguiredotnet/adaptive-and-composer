@@ -1,45 +1,13 @@
-# custom dialogs
+# Hydrating Adaptive Dialogue from Composer generated JSON
 
-Bot Framework v4 custom dialogs bot sample
+Bot Framework v4 Composer and Adaptive Dialogue and Composer Integration Example
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to sub-class the `Dialog` class to create different bot control mechanism like simple slot filling.
+This bot has been created using [Bot Framework](https://dev.botframework.com).
 
-BotFramework provides a built-in base class called `Dialog`. By subclassing `Dialog`, developers can create new ways to define and control dialog flows used by the bot.
 
 ## Prerequisites
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download) version 2.1
-
-  ```bash
-  # determine dotnet version
-  dotnet --version
-  ```
-
-## To try this sample
-
-- Clone the repository
-
-    ```bash
-    git clone https://github.com/microsoft/botbuilder-samples.git
-    ```
-
-- In a terminal, navigate to `samples/csharp_dotnetcore/19.custom-dialogs`
-- Run the bot from a terminal or from Visual Studio, choose option A or B.
-
-  A) From a terminal
-
-  ```bash
-  # run the bot
-  dotnet run
-  ```
-
-  B) Or from Visual Studio
-
-  - Launch Visual Studio
-  - File -> Open -> Project/Solution
-  - Navigate to `samples/csharp_dotnetcore/19.custom-dialogs` folder
-  - Select `Custom-Dialogs.csproj` file
-  - Press `F5` to run the project
 
 ## Testing the bot using Bot Framework Emulator
 
@@ -52,22 +20,6 @@ BotFramework provides a built-in base class called `Dialog`. By subclassing `Dia
 - Launch Bot Framework Emulator
 - File -> Open Bot
 - Enter a Bot URL of `http://localhost:3978/api/messages`
-
-## Custom Dialogs
-
-BotFramework provides a built-in base class called `Dialog`. By subclassing Dialog, developers
-can create new ways to define and control dialog flows used by the bot. By adhering to the
-features of this class, developers will create custom dialogs that can be used side-by-side
-with other dialog types, as well as built-in or custom prompts.
-
-This example demonstrates a custom Dialog class called `SlotFillingDialog`, which takes a
-series of "slots" which define a value the bot needs to collect from the user, as well
-as the prompt it should use. The bot will iterate through all of the slots until they are
-all full, at which point the dialog completes.
-
-## Deploy this bot to Azure
-
-To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
 
 ## Further reading
 
