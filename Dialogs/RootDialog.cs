@@ -29,7 +29,7 @@ namespace Microsoft.BotBuilderSamples
             _userState = userState;
        
             // Get Folder of dialogs.
-            var resourceExplorer = new ResourceExplorer().AddFolder(@"C:\Users\Jamie\Downloads\blog-post-adaptive-and-composer\Dialogs");
+            var resourceExplorer = new ResourceExplorer().AddFolder(@"C:\Users\Jamie\source\repos\adaptive-and-composer\Dialogs\");
 
             // find the main composer dialog to start with
             var composerDialog = resourceExplorer.GetResource("Main.dialog");
@@ -39,7 +39,7 @@ namespace Microsoft.BotBuilderSamples
             myComposerDialog.Id = "Main.dialog";
             
             // setup lanaguage generation for the dialogue
-            myComposerDialog.Generator = new TemplateEngineLanguageGenerator(new TemplateEngine().AddFile(@"C:\Users\Jamie\Downloads\blog-post-adaptive-and-composer\Dialogs\ComposerDialogs\Main\Main.lg"));
+            myComposerDialog.Generator = new TemplateEngineLanguageGenerator(new TemplateEngine().AddFile(@"C:\Users\Jamie\source\repos\adaptive-and-composer\Dialogs\ComposerDialogs\Main\Main.lg"));
 
             // add to the ComponentDialog which Root dialogue inherits from
             AddDialog(myComposerDialog);
