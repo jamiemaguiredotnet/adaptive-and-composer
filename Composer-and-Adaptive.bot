@@ -1,0 +1,18 @@
+{
+    "name": "Integration",
+    "description": "",
+    "services": [
+      {
+        "type": "endpoint",
+        "appId": "",
+        "appPassword": "",
+        "endpoint": "http://localhost:3978/api/messages",
+        "id": "469d76c0-5ad5-11ea-8369-a399b221fdd7",
+        "name": "http://localhost:3978/api/messages"
+      }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\Jamie\\source\\repos\\blog-post-adaptive-and-composer\\Composer-and-Adaptive.bot"
+}
