@@ -1,0 +1,15 @@
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\bin\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.deps.json
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\bin\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.runtimeconfig.json
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\bin\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.runtimeconfig.dev.json
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\bin\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.dll
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\obj\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\obj\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\obj\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.RazorAssemblyInfo.cache
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\obj\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.RazorAssemblyInfo.cs
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\obj\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\obj\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\obj\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.RazorTargetAssemblyInfo.cache
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\bin\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.pdb
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\obj\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.dll
+C:\Users\Jamie\source\repos\composer-adaptive-regular-hybrid\obj\Debug\netcoreapp2.1\Composer-Adaptive-Regular-Dialog-Hybrid.pdb
