@@ -1,8 +1,8 @@
-﻿# composer_adaptive_regular_hybrid
+﻿# Hybrid
 
 Bot Framework v4 empty bot sample.
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows the minimum code required to build a bot.
+This bot has been created using [Bot Framework](https://dev.botframework.com), it shows the minimum code required to build a bot that uses regular Dialogs Adaptive Dialogs
 
 ## Prerequisites
 
