@@ -38,3 +38,4 @@ C:\Users\Jamie\source\repos\composer-and-adaptive\Hybrid\obj\Debug\netcoreapp2.1
 C:\Users\Jamie\source\repos\composer-and-adaptive\Hybrid\obj\Debug\netcoreapp2.1\Hybrid.RazorTargetAssemblyInfo.cache
 C:\Users\Jamie\source\repos\composer-and-adaptive\Hybrid\obj\Debug\netcoreapp2.1\Hybrid.dll
 C:\Users\Jamie\source\repos\composer-and-adaptive\Hybrid\obj\Debug\netcoreapp2.1\Hybrid.pdb
+C:\Users\Jamie\source\repos\composer-and-adaptive\Hybrid\obj\Debug\netcoreapp2.1\Hybrid.csprojAssemblyReference.cache

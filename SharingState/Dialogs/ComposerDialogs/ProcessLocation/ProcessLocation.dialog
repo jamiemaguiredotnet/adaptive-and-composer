@@ -1,0 +1,48 @@
+{
+  "$type": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "name": "ProcessLocation",
+    "id": "083423"
+  },
+  "autoEndDialog": "true",
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$type": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "id": "367213"
+      },
+      "actions": [
+        {
+          "$type": "Microsoft.TextInput",
+          "$designer": {
+            "id": "978657",
+            "name": "Text input"
+          },
+          "prompt": "@{bfdprompt-978657()}",
+          "maxTurnCount": "3",
+          "property": "user.postcode",
+          "alwaysPrompt": "true",
+          "allowInterruptions": "false"
+        },
+        {
+          "$type": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "392419",
+            "name": "Send a response"
+          },
+          "activity": "@{bfdactivity-392419()}"
+        },
+        {
+          "$type": "Microsoft.EndDialog",
+          "$designer": {
+            "id": "024671",
+            "name": "End this dialog"
+          }
+        }
+      ]
+    }
+  ],
+  "generator": "ProcessLocation.lg"
+}
